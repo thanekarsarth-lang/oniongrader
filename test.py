@@ -1,1 +1,0 @@
-print("WeatherGPT is ready!")
